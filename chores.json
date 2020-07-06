@@ -1,24 +1,17 @@
-{"chores":
-  [
+[
   {
-    "value":"Vacuum",
-    "title":"N"
+    "value":"N",
   },
   {
-    "value":"Kitchen",
-    "title":"JC"
+    "value":"JC",
   },
   {
-    "value":"Bathrooms",
-    "title":"K"
+    "value":"K",
   },
   {
-    "value":"Trash",
-    "title":"NF"
+    "value":"NF",
   },
   {
-    "value":"Off",
-    "title":"J"
+    "value":"J",
   }
 ]
-}
