@@ -1,4 +1,5 @@
-[
+{"chores":
+  [
   {
     "value":"Vacuum",
     "title":"N"
@@ -20,3 +21,4 @@
     "title":"J"
   }
 ]
+}
