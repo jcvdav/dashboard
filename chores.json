@@ -1,0 +1,22 @@
+[
+  {
+    "value":"Vacuum",
+    "title":"N"
+  },
+  {
+    "value":"Kitchen",
+    "title":"JC"
+  },
+  {
+    "value":"Bathrooms",
+    "title":"K"
+  },
+  {
+    "value":"Trash",
+    "title":"NF"
+  },
+  {
+    "value":"Off",
+    "title":"J"
+  }
+]
