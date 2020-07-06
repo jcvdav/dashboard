@@ -1,12 +1,22 @@
 [
   {
-    "value":"176",
-    "title":"Sales",
-    "subtitle":"Today"
+    "value":"Vacuum",
+    "title":"N"
   },
   {
-    "value":"194",
-    "title":"Sales",
-    "subtitle":"Yesterday"
+    "value":"Kitchen",
+    "title":"JC"
+  },
+  {
+    "value":"Bathrooms",
+    "title":"K"
+  },
+  {
+    "value":"Trash",
+    "title":"NF"
+  },
+  {
+    "value":"Off",
+    "title":"J"
   }
 ]
