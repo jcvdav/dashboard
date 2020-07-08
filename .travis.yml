@@ -1,3 +1,1 @@
 language: r
-rvm:
- - 3.6.3
